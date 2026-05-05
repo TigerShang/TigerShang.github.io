@@ -1,6 +1,6 @@
 title: TigerShang's Math Blog
 description: Hardcore Mathematics | Signal Processing, Machine Learning & Beyond
-theme: jekyll-theme-cayman
+remote_theme: liuyxpp/liuyxpp.github.io
 markdown: kramdown
 kramdown:
   math_engine: mathjax
