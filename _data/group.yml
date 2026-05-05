@@ -1,0 +1,35 @@
+principle_investigator:
+  - name: "Prof. Yi-Xin Liu"
+    image: "images/me.jpg"
+    bio: "Dr. Yi-Xin Liu is currently an associated professor at Fudan University."
+    bio_link: "/about/"
+
+graduate_students:
+  - name: "Mr. Jun-Yang Liu"
+    period: "Sep. 2024"
+    description: "Jun-Yang Liu is developing highly efficient algorithms for solving SCFT equations of block copolymers. He is now pursuing a MSc."
+
+  - name: "Ms. Xi-Yue Zhang"
+    period: "Sep. 2025"
+    description: "Xi-Yue Zhang is developing **Machine Learning** methods for predicting the phase behavior of block copolymers. She is now pursuing a BSc."
+
+undergraduate_students:
+  - name: "Ms. Xuan Zhao"
+    description: "Xuan's project is yet to be determined. She is now pursuing a BSc."
+
+alumni:
+  - name: "Mr. Yu-Chen Zhang"
+    period: "Sep. 2022 - Jun. 2025"
+    description: "Mr. Yu-Chen Zhang graduated at 2025 with MSc. After graduation, he becomes a high school teacher at Shanghai."
+
+  - name: "Ms. Wei-Ling Huang"
+    period: "Sep. 2022 - Jun. 2025"
+    description: "Wei-Ling Huang is graduated at 2025 with MSc. After graduation, she becomes a high school teacher at Shanghai."
+
+  - name: "Mr. Xu-Chen Gan"
+    period: "Mar. 2021 - Jun. 2022"
+    description: "Xu-Chen Gan ([github](https://github.com/vvmbvy)) graduated at 2022 with BSc. He is now pursuing a PhD at UMass."
+
+  - name: "Dr. Jun-Qing Song"
+    period: "Sep. 2013 - Jun. 2018"
+    description: "Dr. Jun-Qing Song graduated at 2018 with PhD. He is working in a government department at Guangxi Province (as of 2018)."

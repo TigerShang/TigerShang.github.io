@@ -1,0 +1,69 @@
+- title: "We Opensourced AcceleratedDCTs.jl"
+  date: 2026-02-23
+  description: "AcceleratedDCTs.jl: Fast, device-agnostic 1D/2D/3D DCTs for #JuliaLang! ✅ Runs on CPU & GPU (via KernelAbstractions) ✅ >2x speedup vs SOTA ✅ AbstractFFTs interface."
+  url: https://github.com/liuyxpp/AcceleratedDCTs.jl
+  image: "/images/news/opensource.jpg"
+  category: software
+
+- title: "JY Liu Publishes in Chinese Journal of Polymer Science"
+  date: 2026-01-28
+  description: "Accelerating Field-Based Simulations of Block Copolymers by Exploring Symmetry of Chain Architectures"
+  url:
+  image: ""
+  category: publication
+
+- title: "We Opensourced PolymerArchitecture.jl and PolymerArchitectureMakie.jl"
+  date: 2025-12-16
+  description: "We are excited to announce that we have opensourced two Julia packages: PolymerArchitecture.jl and PolymerArchitectureMakie.jl. These packages provide tools for analyzing and visualizing polymer architectures, including automatic detection of equivalent sub-architectures and visualization using GraphMakie.jl. An accompanying research article utilizing these packages to accelerate polymer SCFT simulations is upcoming."
+  url: https://github.com/liuyxpp/PolymerArchitecture.jl
+  image: "/images/news/opensource.jpg"
+  category: software
+
+- title: "Polyorder App Is Online"
+  date: 2025-10-08
+  description: "We are thrilled to announce that a full-feature web app for performing SCFT simulations using Polyorder.jl as the engine is now online. The app provides a user-friendly interface for running SCFT simulations and online monitoring of the results. It is available at <a href='https://app.yxliu.group'>https://app.yxliu.group</a>. Welcome to try it out!"
+  url: https://app.yxliu.group
+  image: "/images/news/landing-small.png"
+  category: software
+
+- title: "MakiePublication.jl v0.4.2 Released"
+  date: 2025-06-14
+  description: "It has been over a year since the last minor release of MakiePublication.jl, and I'm excited to announce that v0.4.2 is now available! This release includes several new features and bug fixes, including support for the latest versions of Makie and GLMakie, as well as improved documentation."
+  url: https://github.com/liuyxpp/MakiePublication.jl
+  image: "/images/news/makiepub-small.png"
+  category: software
+
+- title: "YC Zhang & WL Huang Defend Their MSc Theses"
+  date: 2025-05-20
+  description: "I’m enormously proud of Yuchen Zhang and Weiling Huang, who had excellent MSc defenses today! It’s been amazing to see you grow over the last three years, and thanks for your contribution to the group. I look forward to learning more from you in the years to come — congrats!"
+  url: https://www.yxliu.group/news/
+  image: ""
+  category: graduation
+
+- title: "WL Huang Publishes in Chinese Journal of Polymer Science"
+  date: 2025-05-02
+  description: "A Unified Approach to Phase Equilibria in Multi-Component Polymer Systems with Effective Chemical Potential"
+  url:
+  image: "/images/news/toc-small-cjps-2025.png"
+  category: publication
+
+- title: "YC Zhang Publishes in Communication Materials"
+  date: 2024-12-18
+  description: "Automated chain architecture screening for discovery of block copolymer assembly with graph enhanced self-consistent field theory"
+  url: "https://rdcu.be/d334W"
+  image: "/images/news/toc-small-cm-2024.png"
+  category: publication
+
+- title: "WL Huang Publishes in Polymer Bulletin"
+  date: 2024-04-07
+  description: "Teaching of modern polymer physics: phase equilibrium of polymer blends"
+  url: "https://www.gfztb.com/zh/article/doi/10.14028/j.cnki.1003-3726.2024.23.377/"
+  image: "/images/news/toc-small-pb-2024.png"
+  category: publication
+
+- title: "YC Zhang Publishes in Chinese Journal of Polymer Science"
+  date: 2024-02-17
+  description: "Automated Identification of Ordered Phases for Simulation Studies of Block Copolymers"
+  url: "https://doi.org/10.1007/s10118-024-3084-x"
+  image: "/images/news/toc-small-cjps-2024.png"
+  category: publication

@@ -1,0 +1,28 @@
+# Menu navigation links
+
+- title:    Home
+  url:      /
+
+- title:    Group
+  url:      /group/
+
+- title:    Research
+  url:      /research/
+
+- title:    Teaching
+  url:      /teaching/
+
+- title:    Publications
+  url:      /publications/
+
+- title:    Software
+  url:      /software/
+
+- title:    PolyorderApp
+  url:      https://app.yxliu.group
+
+- title:    Blog
+  url:      /blog/
+
+- title:    About
+  url:      /about/
