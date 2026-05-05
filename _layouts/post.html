@@ -12,9 +12,12 @@ layout: default
 <script>
   window.MathJax = {
     tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      inlineMath: [['$', '$'], ['\\(', '\\)']],   // 这一行是关键：让 $ 生效
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
     }
   };
 </script>
